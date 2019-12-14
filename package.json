@@ -1,0 +1,21 @@
+{
+  "name": "newsscape",
+  "version": "1.0.0",
+  "description": "creating an app that allows the user to view articles and leave comments",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisharding88/newsScrape.git"
+  },
+  "author": "Christopher Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisharding88/newsScrape/issues"
+  },
+  "homepage": "https://github.com/chrisharding88/newsScrape#readme"
+}
