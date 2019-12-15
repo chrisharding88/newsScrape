@@ -2,7 +2,7 @@
   "name": "newsscape",
   "version": "1.0.0",
   "description": "creating an app that allows the user to view articles and leave comments",
-  "main": "app.js",
+  "main": "server.js",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
