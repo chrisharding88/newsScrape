@@ -24,7 +24,7 @@ app.use(express.static("public"));
 
 
 //Connects the mongoDB
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://<dbuser>:<dbpassword>@ds253428.mlab.com:53428/heroku_585fxwsl";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://chrishard88:chard88@ds253428.mlab.com:53428/heroku_585fxwsl";
 mongoose.connect(MONGODB_URI)
 
 app.get("/scrape", function(req, res){
